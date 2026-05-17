@@ -1,0 +1,23 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with Vercel Web Analytics",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash0444/MyPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash0444/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/avinash0444/MyPortfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
